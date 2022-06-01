@@ -21,4 +21,16 @@ Posibilita la elección del genero de la película para luego con el poder agreg
 #### SweetAlert
 
 ## Instalación
+Para descargar el proyecto pueden descargar el repositorio en formato zip
 
+1 - Ir a "Code" -> "Dowload Zip"
+
+2 - Descomprimir el archivo
+
+3 - En la carpeta donde se encuentra en "package.json" ejecutar en una terminal: npm install
+
+4 - Una vez finalizado, ejecutar: npm start
+
+## Despliegue
+
+El mismo fue desplegado en Vercel para que lo vean ejecutando, por si no quieren descargar el proyecto https://cineale-samardichh.vercel.app/
