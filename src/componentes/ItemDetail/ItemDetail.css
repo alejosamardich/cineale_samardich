@@ -1,0 +1,55 @@
+.itemdetail{
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    padding-bottom: 20px;
+    background-color: #282c34c4 ;
+    width: 700px;
+}
+
+.title{
+    width: 50%;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-end;
+    padding-top: 40px;
+}
+
+
+.description {
+    width: 50%;
+    display: flex;
+    color: white;
+    flex-direction: column;
+}
+
+.description h2 {
+    padding: 20px;
+}
+
+.description p{
+    width: 50%;
+    align-items: center;
+    margin: auto;
+}
+
+.imagen {
+    width: 300px;
+    height: 430px;
+}
+
+.terminar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 100px;
+    border-radius: 25px;
+    background-color: gray;
+    color: white
+}
+
+.quantity {
+    color: white;
+}

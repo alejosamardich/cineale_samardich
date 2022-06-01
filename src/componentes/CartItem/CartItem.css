@@ -1,0 +1,41 @@
+.cart-item {
+    display: flex;
+    align-items: center;
+    background-color:rgba(128, 128, 128, 0.712);
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.cart-item p {
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.cart-img-container img {
+    width: 200px;
+    height: 280px;
+}
+
+.precio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.boton {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+
+

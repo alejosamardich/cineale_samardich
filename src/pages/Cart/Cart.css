@@ -1,0 +1,33 @@
+.total-container p {
+    background-color: gray;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.total-container button {
+    border-radius: 25%;
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+
+.button-brown {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 100px;
+    border-radius: 25px;
+    background-color: gray;
+    color: white;
+    height: 50px;
+}
+
+.button-brown p{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
